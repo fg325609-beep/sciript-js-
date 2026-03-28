@@ -81,3 +81,38 @@
             // }
 
 
+
+
+
+
+
+
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt("b sonini kiriting");
+// let c = +prompt("c sonini kiriting");
+
+// if (a=== b) {
+//     alert(1)
+    
+// } else if (a===c){
+//     alert(2)
+    
+// }
+// else if (c === b){
+//     alert(3)
+
+// }
+// else{
+//     console.log(a , b ,c);
+    
+// }
+
+
+
+
+
+
+
+
+
+
