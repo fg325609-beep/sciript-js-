@@ -23,15 +23,61 @@
 
 
 
-let a = +prompt("a sonini kiriting");
-let b = +prompt("b sonini kiriting");
-let c = +prompt("c sonini kiriting");
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt("b sonini kiriting");
+// let c = +prompt("c sonini kiriting");
 
 
-if ( a > 0 && b > 0 && c > 0 ) {
-    alert(" son musbat")
+// if ( a > 0 && b > 0 && c > 0 ) {
+//     alert(" son musbat")
     
-} else if (a < 0 && b < 0 && c < 0){
-    alert("son manfiy")
+// } else if (a < 0 && b < 0 && c < 0){
+//     alert("son manfiy")
     
-}
+// }
+
+
+
+
+
+
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt("b sonini kiriting");
+// let c = +prompt("c sonini kiriting");
+
+
+            // if (a <= b && a <= c) {
+              
+            // } 
+            // else if (b <= a && b <= c) {
+               
+            // } 
+            // else {
+          
+            // }
+
+            
+            // if (a >= b && a >= c) {
+              
+            // } 
+            // else if (b >= a && b >= c) {
+                
+            // } 
+            // else {
+
+                // AI ishladi
+              
+            // }
+
+
+            // if (a <= 10 && b <= 10 && c<= 10) {
+            //     alert("kichik son")
+                
+            // } else if (a>= 10 && b >= 10 && c >= 10){
+            //     alert("katta son") 
+
+                // ozim ishladim 
+
+            // }
+
+
