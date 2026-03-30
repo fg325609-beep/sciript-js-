@@ -328,11 +328,15 @@
 // console.log("kichik son",kichik)
 
 
-let a = +prompt("a sonini kiriting");
-let b = +prompt("b sonini kiriting");
-if ((a !== b)|| (a === b === 0)) {
-    alert(a > b)
-    
+let a = +prompt("A sonini kiriting:");
+let b = +prompt("B sonini kiriting:");
+if (a !== b) {
+    let katta = Math.max(a, b);
+    a = katta;
+    b = katta;
 } else {
-    
+    a = 0;
+    b = 0;
 }
+console.log(a, b);
+alert("A = " + a + "\nB = " + b);
