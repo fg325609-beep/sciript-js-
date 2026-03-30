@@ -326,3 +326,13 @@
 
 // console.log("katta son",katta);
 // console.log("kichik son",kichik)
+
+
+let a = +prompt("a sonini kiriting");
+let b = +prompt("b sonini kiriting");
+if ((a !== b)|| (a === b === 0)) {
+    alert(a > b)
+    
+} else {
+    
+}
