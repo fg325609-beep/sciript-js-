@@ -316,13 +316,13 @@
 // console.log("katta son",katta);
 // console.log("kichik son",kichik);
 
+
+
 // 7 - masala
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt(" b sonuini kiriting");
+// let katta = Math.max(b); 
+// let kichik = Math.min(a);
 
-
-let a = +prompt("a sonini kiriting");
-let b = +prompt(" b sonuini kiriting");
-let katta = Math.max(a); 
-let kichik = Math.min(b);
-
-console.log("katta son",katta);
-console.log("kichik son",kichik)
+// console.log("katta son",katta);
+// console.log("kichik son",kichik)
