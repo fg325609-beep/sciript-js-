@@ -310,11 +310,8 @@
 // 6 masala
 let a = prompt("a sonini kiriting");
 let b = prompt(" b sonuini kiriting");
-let katta = a; 
-let kichik = b;
-if (katta > kichik) {
-}
+let katta = Math.max; 
+let kichik = Math.min;
 
-if(kichik < katta){
+console.log(katta, kichik);
 
-}
