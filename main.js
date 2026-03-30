@@ -308,12 +308,21 @@
 
 
 // 6 masala
+// let a = +prompt("a sonini kiriting");
+// let b = +prompt(" b sonuini kiriting");
+// let katta = Math.max(a , b); 
+// let kichik = Math.min(a , b);
+
+// console.log("katta son",katta);
+// console.log("kichik son",kichik);
+
+// 7 - masala
+
+
 let a = +prompt("a sonini kiriting");
 let b = +prompt(" b sonuini kiriting");
-let katta = Math.max(a , b); 
-let kichik = Math.min(a , b);
+let katta = Math.max(a); 
+let kichik = Math.min(b);
 
 console.log("katta son",katta);
-console.log("kichik son",kichik);
-
-
+console.log("kichik son",kichik)
