@@ -308,10 +308,12 @@
 
 
 // 6 masala
-let a = prompt("a sonini kiriting");
-let b = prompt(" b sonuini kiriting");
-let katta = Math.max; 
-let kichik = Math.min;
+let a = +prompt("a sonini kiriting");
+let b = +prompt(" b sonuini kiriting");
+let katta = Math.max(a , b); 
+let kichik = Math.min(a , b);
 
-console.log(katta, kichik);
+console.log("katta son",katta);
+console.log("kichik son",kichik);
+
 
