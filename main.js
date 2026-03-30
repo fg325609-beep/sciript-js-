@@ -327,7 +327,7 @@
 // console.log("katta son",katta);
 // console.log("kichik son",kichik)
 
-
+// 9 - masala
 // let a = +prompt("A sonini kiriting:");
 // let b = +prompt("B sonini kiriting:");
 // if (a !== b) {
@@ -340,3 +340,9 @@
 // }
 // console.log(a, b);
 // alert("A = " + a + "\nB = " + b);
+
+// 10 - masala
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+// console.log(Math.min(a, b, c));
